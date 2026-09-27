@@ -1,0 +1,15 @@
+{
+  "name": "@expatslistorg/free100localleads",
+  "version": "1.0.0",
+  "description": "Claude skill: how to use Free100LocalLeads, 450K+ USA local business contacts.",
+  "homepage": "https://free100localleads.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpatslistORG/free100localleads.com"
+  },
+  "files": ["SKILL.md", "README.md"],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
